@@ -4,8 +4,8 @@ To set up the flutter in your system you can go through the [official doc](https
 
 ## Installation
 To setup flutter, you need:
-* Android Studio
-* Xcode (In mac devices)
+* [Android Studio](https://github.com/evolvingkid/flutter-workshop-1/blob/master/installation/README.md#android-installation)
+* [Xcode](https://github.com/evolvingkid/flutter-workshop-1/tree/master/installation#xcode) (In mac devices) 
 * git
 * Google chrome (Planing to do flutter web)
 * Flutter SDK
