@@ -73,3 +73,11 @@ To verify the flutter installation you can run flutter doctor.
 ```
 flutter doctor
 ```
+
+![doctor image](https://github.com/evolvingkid/flutter-workshop-1/blob/master/installation/Screenshot%202022-01-28%20at%208.06.14%20PM.png)
+
+Run the `flutter doctor --android-licenses` command to solve the android warning.
+
+`Chrome - develop for the web` error is showing because i didn't install google chrome in my device. And not planning to do flutter web any time soon.
+
+`No devices available` warning is not an issues leave it for now.
