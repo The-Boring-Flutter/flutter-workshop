@@ -58,7 +58,7 @@ We doing the `sudo xcodebuild -runFirstLaunch` you may face and issues like:
 objc[8902]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libauthinstall.dylib (0x201c0eb90) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103be02c8). One of the two will be used. Which one is undefined.
 ```
 
-If this issues comes up Their is two soloution.
+If this issues comes up Their is two [soloution](https://github.com/evolvingkid/flutter-workshop-1/tree/master/installation/IOS_ISSUES#class-amsupporturlconnectiondelegate-is-implemented-issues).
 
 ## Flutter installation
 
