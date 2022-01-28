@@ -53,6 +53,13 @@ sudo xcodebuild -license
 sudo gem install cocoapods
 ```
 
+We doing the `sudo xcodebuild -runFirstLaunch` you may face and issues like:
+```
+objc[8902]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libauthinstall.dylib (0x201c0eb90) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103be02c8). One of the two will be used. Which one is undefined.
+```
+
+If this issues comes up Their is two soloution.
+
 ## Flutter installation
 
 [Download the needed SDK from flutter official site.](https://docs.flutter.dev/get-started/install)
