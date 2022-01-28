@@ -49,7 +49,20 @@ sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
 sudo xcodebuild -runFirstLaunch
 
 sudo xcodebuild -license
+
+sudo gem install cocoapods
 ```
 
 ## Flutter installation
 
+[Download the needed SDK from flutter official site.](https://docs.flutter.dev/get-started/install)
+
+Setup your path to SDK. It differ from system to system. 
+
+## Flutter Verification
+
+To verify the flutter installation you can run flutter doctor.
+
+```
+flutter doctor
+```
