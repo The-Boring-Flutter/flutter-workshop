@@ -50,3 +50,6 @@ sudo xcodebuild -runFirstLaunch
 
 sudo xcodebuild -license
 ```
+
+## Flutter installation
+
