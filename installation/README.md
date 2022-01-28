@@ -40,3 +40,13 @@ Now choose the SDK tool and then choose the hide obsolete package. Mark the andr
 You can install Xcode from the AppStore or website. After installation open the Xcode so that it will download the required tools.
 
 ![xcode install](https://github.com/evolvingkid/flutter-workshop-1/blob/master/installation/Screenshot%202022-01-27%20at%209.13.28%20PM.png)
+
+After this run the below commands.
+
+``` 
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+
+sudo xcodebuild -runFirstLaunch
+
+sudo xcodebuild -license
+```
