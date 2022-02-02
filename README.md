@@ -7,4 +7,5 @@ This is a series of workshop from flutter instalation to building a photo app.
 | Topic  | Link |
 | ------------- | ------------- |
 | Basic setup | [Installation Docs](https://github.com/evolvingkid/flutter-workshop-1/tree/master/installation) |
+|Books|[Books about Flutter / Dart](https://github.com/evolvingkid/flutter-workshop-1/upload)
 
