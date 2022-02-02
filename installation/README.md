@@ -8,7 +8,7 @@ To setup flutter, you need:
 * [Xcode](https://github.com/evolvingkid/flutter-workshop-1/tree/master/installation#xcode) (In mac devices) 
 * [git](https://git-scm.com/)
 * [Google chrome](https://www.google.com/intl/en_in/chrome/) (Planing to do flutter web)
-* Flutter SDK
+* [Flutter SDK](https://github.com/evolvingkid/flutter-workshop-1/tree/master/installation#flutter-installation)
 
 ## Android Installation
 
@@ -81,3 +81,7 @@ Run the `flutter doctor --android-licenses` command to solve the android warning
 `Chrome - develop for the web` error is showing because i didn't install google chrome in my device. And not planning to do flutter web any time soon.
 
 `No devices available` warning is not an issues leave it for now.
+
+# Extras
+
+* In the future, if you want to have multiple flutter versions for your projects then you can use [fvm](https://fvm.app/) to have a different flutter version for your project.
